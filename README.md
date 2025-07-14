@@ -30,7 +30,7 @@
 | 💻 **Languages**       | JavaScript (ES6+), HTML5, CSS3 |
 | 🎨 **Frontend**        | React.js, Tailwind CSS, Bootstrap |
 | 🔧 **Backend**         | Node.js, Express.js |
-| 🗄️ **Databases**       | MongoDB |
+| 🗄️ **Databases**       | MongoDB, Oracle |
 | 🧰 **Dev Tools**       | Git, GitHub, VS Code, Postman |
 | 🔐 **Auth & Security** | JWT, bcrypt, secure routing |
 | 📦 **Build Tools**     | npm, Webpack |

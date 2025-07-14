@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:momenkelany1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/momen-kelany"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/momen-kelany"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/momenkelany"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://momenkelany.github.io/Momen-Kelany-Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>
   <a href="https://drive.google.com/file/d/1skqfLlu3qh3nVVDDBpapbsJGHK2V09hW/view?usp=sharing"><img src="https://img.shields.io/badge/-Download_CV-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download CV"></a>
